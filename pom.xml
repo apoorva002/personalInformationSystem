@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.adjecti</groupId>
-	<artifactId>PublicInformationSystem</artifactId>
+	<artifactId>personal_information_system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PublicInformationSystem</name>
+	<name>personal_information_system</name>
 	<description>PIS project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
